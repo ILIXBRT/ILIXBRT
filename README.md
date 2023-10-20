@@ -2,7 +2,7 @@
 
 int main() {
 
-  printf("MAJMUNEEEEE");
+  printf("");
 
   return 0;
 }
